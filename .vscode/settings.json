@@ -1,0 +1,12 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Doorkeeper",
+      "group": "Doorkeeper",
+      "database": "${workspaceFolder:doorkeeper_provider}/db/development.sqlite3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
